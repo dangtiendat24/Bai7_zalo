@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Bai7_zalo\bin\Debug\net8.0\Bai7_zalo.exe
+C:\Users\Dang Dat\source\repos\Bai7_zalo\bin\Debug\net8.0\Bai7_zalo.deps.json
+C:\Users\Dang Dat\source\repos\Bai7_zalo\bin\Debug\net8.0\Bai7_zalo.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Bai7_zalo\bin\Debug\net8.0\Bai7_zalo.dll
+C:\Users\Dang Dat\source\repos\Bai7_zalo\bin\Debug\net8.0\Bai7_zalo.pdb
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\Bai7_zalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\Bai7_zalo.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\Bai7_zalo.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\Bai7_zalo.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\Bai7_zalo.dll
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\refint\Bai7_zalo.dll
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\Bai7_zalo.pdb
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\Bai7_zalo.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Bai7_zalo\obj\Debug\net8.0\ref\Bai7_zalo.dll
